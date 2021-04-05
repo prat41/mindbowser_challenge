@@ -32,6 +32,6 @@ run `npm install` to install all node dependencies.
 run `npm start` to start the webpack dev server for frontend app.
 
 
-# If you wanted to access the DJango admin database the username and password is `admin` and   `admin` respectively
+# If you want to access the DJango admin database, the username and password is `admin` and   `admin` respectively
 
 
